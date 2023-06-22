@@ -1,4 +1,5 @@
-# GitHub API를 사용해서 live-study 대시 보드 만들기
+# live-study 대시 보드 만들기
+- GitHub API 사용해서 사용자별 Issue Comment 참여율(스터디 참여율) 시각화한 live-study 대시 보드 만들기
 ## 1. 요구사항
 - live-study 레포지토리(https://github.com/whiteship/live-study) 의 깃헙 이슈 1번부터 18번까지 댓글을 순회하며 댓글을 남긴 사용자를 체크하기.
 - 참여율을 계산하기. 총 18회에 중에 몇 %를 참여했는지 소숫점 두자리가지 보여주기.
