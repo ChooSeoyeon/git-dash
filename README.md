@@ -27,3 +27,6 @@
 ## 6. Queue 구현
 - 배열을 사용해서 한번.
 - ListNode를 사용해서 한번.
+
+# Reference
+https://github.com/java-live-study/live-study/issues/4
